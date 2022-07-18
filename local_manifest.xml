@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  
+  <remote name="itzorr"
+          fetch="https://github.com/itzorr" />
+  
+  <project path="device/xiaomi/laurel_sprout" name="itzorr/device_xiaomi_laurel_sprout" remote="github" revision="twelve" />
+  <project path="kernel/Xiaomi/laurel_sprout" name="itzorr/kernel_xiaomi_laurel_sprout" remote="github" revision="twelve" />
+  <project path="vendor/xiaomi/laurel_sprout" name="itzorr/vendor_xiaomi_laurel_sprout" remote="github" revision="twelve" />
+  <project path="vendor/xiaomi/laurel_sprout-extra" name="itzorr/vendor_xiaomi_laurel_sprout-extra" remote="github" revision="twelve" />
+
+</manifest>
