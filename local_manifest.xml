@@ -9,4 +9,6 @@
   <project path="vendor/xiaomi/laurel_sprout" name="itzorr/vendor_xiaomi_laurel_sprout" remote="github" revision="stag" />
   <project path="vendor/xiaomi/laurel_sprout-extra" name="itzorr/android_vendor_xiaomi_laurel_sprout-extra" remote="github" revision="stag" />
   <project path="hardware/xiaomi" name="itzorr/android_hardware_xiaomi" remote="github" revision="lineage-19.1" />
+  <project path="build/make" name="itzorr/android_build_make" remote="github" revision="s12.1" />
+
 </manifest>
