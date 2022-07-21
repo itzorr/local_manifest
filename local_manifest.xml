@@ -12,6 +12,6 @@
 
   <remove-project name="android_build_make" />
 
-  <project path="build/make" name="itzorr/android_build_make" remote="github" revision="s12.1" />
+  <project path="build/make" name="itzorr/android_build_make1" remote="github" revision="s12.1" />
 
 </manifest>
