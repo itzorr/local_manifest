@@ -16,6 +16,5 @@
         <project path="vendor/xiaomi/laurel_sprout" name="vendor_xiaomi_laurel_sprout" remote="itzorr" revision="stag" />
         <project path="kernel/xiaomi/laurel_sprout" name="kernel_xiaomi_laurel_sprout" remote="itzorr" revision="stag" clone-depth="1" />
         <project path="vendor/xiaomi/laurel_sprout-extra" name="android_vendor_xiaomi_laurel_sprout-extra" remote="itzorr" revision="stag" />
-        <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="itzorr" revision="lineage-19.1" />
         
 </manifest>
