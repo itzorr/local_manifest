@@ -20,7 +20,7 @@
         
 <!-- Remove HALs -->
 
-        <remove-project name="StagOS/android_build_make" />
+        <remove-project name="android_build_make" />
 
 <!-- addition -->
         
