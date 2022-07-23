@@ -4,17 +4,14 @@
 
 <!-- fetching sources -->      
 
-        <remote name="itzorr"
-                fetch="https://github.com/itzorr" />
-
-        <remote name="StagOS"
-                fetch="https://github.com/StagOS" />
+        <remote name="lznycx"
+                fetch="https://github.com/lznycx" />
 
 <!-- device trees -->
 
-        <project path="device/xiaomi/laurel_sprout" name="device_xiaomi_laurel_sprout" remote="itzorr" revision="stag" />
-        <project path="vendor/xiaomi/laurel_sprout" name="vendor_xiaomi_laurel_sprout" remote="itzorr" revision="stag" />
-        <project path="kernel/xiaomi/laurel_sprout" name="kernel_xiaomi_laurel_sprout" remote="itzorr" revision="stag" clone-depth="1" />
-        <project path="vendor/xiaomi/laurel_sprout-extra" name="android_vendor_xiaomi_laurel_sprout-extra" remote="itzorr" revision="stag" />
+        <project path="device/xiaomi/laurel_sprout" name="device_xiaomi_laurel_sprout" remote="lznycx" revision="VoidUi" />
+        <project path="vendor/xiaomi/laurel_sprout" name="vendor_xiaomi_laurel_sprout" remote="lznycx" revision="VoidUi" />
+        <project path="kernel/xiaomi/laurel_sprout" name="kernel_xiaomi_laurel_sprout" remote="lznycx" revision="VoidUi" clone-depth="1" />
+        <project path="vendor/xiaomi/laurel_sprout-extra" name="android_vendor_xiaomi_laurel_sprout-extra" remote="lznycx" revision="VoidUi" />
         
 </manifest>
