@@ -9,9 +9,8 @@
 
 <!-- device trees -->
 
-        <project path="device/xiaomi/laurel_sprout" name="device_xiaomi_laurel_sprout" remote="lznycx" revision="VoidUi" />
-        <project path="vendor/xiaomi/laurel_sprout" name="vendor_xiaomi_laurel_sprout" remote="lznycx" revision="VoidUi" />
-        <project path="kernel/xiaomi/laurel_sprout" name="kernel_xiaomi_laurel_sprout" remote="lznycx" revision="VoidUi" clone-depth="1" />
-        <project path="vendor/xiaomi/laurel_sprout-extra" name="android_vendor_xiaomi_laurel_sprout-extra" remote="lznycx" revision="VoidUi" />
-        
+        <project path="device/xiaomi/laurel_sprout" name="device_xiaomi_laurel_sprout" remote="lznycx" revision="tiramisu" />
+        <project path="vendor/xiaomi/laurel_sprout" name="vendor_xiaomi_laurel_sprout" remote="lznycx" revision="tiramisu" />
+        <project path="kernel/xiaomi/laurel_sprout" name="kernel_xiaomi_laurel_sprout" remote="lznycx" revision="tiramisu" clone-depth="1" />
+
 </manifest>
