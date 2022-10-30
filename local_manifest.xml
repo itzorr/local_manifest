@@ -9,8 +9,8 @@
 
 <!-- device trees -->
 
-        <project path="device/xiaomi/laurel_sprout" name="device_xiaomi_laurel_sprout" remote="lznycx" revision="tiramisu" />
-        <project path="vendor/xiaomi/laurel_sprout" name="vendor_xiaomi_laurel_sprout" remote="lznycx" revision="tiramisu" />
-        <project path="kernel/xiaomi/laurel_sprout" name="kernel_xiaomi_laurel_sprout" remote="lznycx" revision="tiramisu" clone-depth="1" />
+        <project path="device/xiaomi/laurel_sprout" name="device_xiaomi_laurel_sprout" remote="lznycx" revision="13" />
+        <project path="vendor/xiaomi/laurel_sprout" name="vendor_xiaomi_laurel_sprout" remote="lznycx" revision="13" />
+        <project path="kernel/xiaomi/laurel_sprout" name="kernel_xiaomi_laurel_sprout" remote="lznycx" revision="13" clone-depth="1" />
 
 </manifest>
